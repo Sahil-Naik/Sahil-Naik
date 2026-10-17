@@ -1,16 +1,4 @@
 <h1 align="center">Hi there, I'm Sahil Naik 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/Sahil-Naik">
-    <img src="https://komarev.com/ghpvc/?username=Sahil-Naik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Sahil-Naik?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sahil-Naik?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  </a>
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working on: **Website Up Tracker**
@@ -51,22 +39,6 @@
 <p align="center">
   <a href="https://github.com/Sahil-Naik">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Naik&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sahil-Naik">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Naik&theme=github-compact&hide_border=true" alt="Activity Graph" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/Sahil-Naik">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Naik&theme=transparent&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
