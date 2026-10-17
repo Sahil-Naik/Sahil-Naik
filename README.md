@@ -13,12 +13,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on: **_(add your current project)_**
-- 🌱 Learning: **_(e.g., TypeScript, Cloud, ML...)_**
-- 👯 Looking to collaborate on: **_(open-source / specific topics)_**
-- 💬 Ask me about: **_(your expertise areas)_**
-- 📫 Reach me: **_(email / LinkedIn / Twitter)_**
-- ⚡ Fun fact: **_(something memorable)_**
+- 🔭 Currently working on: **Website Up Tracker**
+- 🌱 Learning: **Gen-AI**
+- 👯 Looking to collaborate on: **Open-Source**
+- 💬 Ask me about: **Anything related to ML/DL or LLMs**
+- 📫 Reach me: **sahil7naik57@gmail.com**
+- ⚡ Fun fact: **I'm a gamer too**
 
 ---
 
@@ -72,43 +72,11 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sahil-Naik/Sahil-Naik/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-> ⚠️ The snake requires a one-time GitHub Actions workflow setup. See [Platane/snk](https://github.com/Platane/snk) for instructions. Remove this section if you don't want to set it up.
-> - uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
-    #  - color_dots:        Coma separated list of dots color.
-    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                       Exactly 5 colors are expected.
-    #  - color_background:  Color of the background (for gif only)
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="www.linkedin.com/in/else-sahil-naik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sahil7naik57@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
